@@ -1,0 +1,9 @@
+/attn
+/logs
+/models
+/samples
+/Self-Attention*
+/mnist
+
+*.ipynb
+__pycache__
